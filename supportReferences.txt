@@ -1,3 +1,7 @@
+https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
+
+https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
+
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 https://www.analyticsvidhya.com/blog/2022/01/diabetes-prediction-using-machine-learning/
