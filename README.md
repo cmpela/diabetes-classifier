@@ -121,7 +121,7 @@ More details avaiable in the "Architecture folder" in this repository
 All models apllied showed good results. This metrics, derived from test set, are not far from the ones spotted in training set. The models are doing a decent job in generalizating the classification. 
 <br/>
 
-Our elected model is ***SVM with RBF kernel, with hyperparameters C = 0.01*** as already seen in training validation, with best Recall (0.8013), ROC_AUC, Accuracy and F1-Score metrics.
+Our elected model is ***SVM with RBF kernel, with hyperparameters C = 0.01*** as already seen in training validation, with best Recall (0.805489), ROC_AUC, Accuracy and F1-Score metrics.
 
 ---
 
