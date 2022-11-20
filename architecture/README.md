@@ -10,7 +10,7 @@ Para isso, chegamos ao modelo vencedor: SVM com kernel RBF que foi melhor em det
 
 ## Metodologia
 
-Utilizamos para este trabalho os dados resumidos da pesquisa feita pelo CDC, que consiste em dados tabulares que foram coletados em entrevistas via telefone de individuos residentes nos Estados Unidos. 
+Utilizamos para este trabalho os dados resumidos da pesquisa feita pelo CDC, que consiste em dados tabulares que foram coletados em entrevistas via telefone de individuos residentes nos Estados Unidos. A pesquisa foi conduzida no ano de 2015. 
 
 É uma base de aproximadamente 22Mb que possui 256,680 registros. Além de contar com 22 colunas, contendo informações sobre o comportamento e indicadores socio-econômicos dos índividuos entrevistados. Os tipos de dados presentes na tabela podem ser descritos conforme abaixo: 
 
@@ -99,8 +99,12 @@ O notebook criado para execução do *pipeline* usa as configurações padrão s
 * Machine: *ml.m5.xlarge*
   * 4 vCPUs
   * 16GiB RAM
+* IAM Role:
+  * Foi utilizada a política de acesso padrão do ambiente learner lab: "LabRole"
+  
+Esta máquina tem um custo estimado de U$0,23/hora de uso
 
-Esta máquina tem um custo estimado de U$0,23/hora de uso;
+
 
 ![Sagemaker configuração](https://i.imgur.com/S0rfoW6.jpg)
 
