@@ -6,6 +6,9 @@
 [Thales Pomari - CP3013456](https://github.com/thalespomari)<br>
 [Tuanny Leite - CP3016285](https://github.com/tuleite)
 
+Work developed and presented for "Big Data" and "Machine Learning and Pattern recognition" courses at Data Science Specialization of IFSP/Campinas
+
+---
 
 
 ### Highlights - Start reading here:
@@ -24,7 +27,7 @@ Insulin is an hormone that transport glucose molecules inside cells, where they 
 
 --- 
 
-## How DM is diagnosed? 
+### How DM is diagnosed? 
 
 There are three tests used as standard for DM diagnosis [9] [10]: 1. Fasting Blood sugar test, that consists in measuring blood glucose after 8-12h fasting 2. A1C test, that consist in measuring the percentage of glycosylated hemoglobin in blood, 3. Glucose tolerance test, that measure glycemia over time after ingestion of a controlled amount of glucose.
 
