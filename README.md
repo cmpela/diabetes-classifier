@@ -1,8 +1,14 @@
 ## Undiagnosed Diabetes Mellitus Prediction on general health and behavior indicators using supervised learning techniques
 
-### Diabetes Mellitus
-
+### Highlights - Start reading here:
+* Diabetes is a metabolic disease that results in high concentrations of sugar in the blood which impairs the functioning of organs and tissues.
+* Currently there are 3 methods of diagnosing DM, all of which rely on laboratory tests
+* It is estimated that 1 in 5 Americans has diabetes but has not been diagnosed
+* We propose an approach to notify possible carriers of the disease who have not been diagnosed using supervised machine learning techniques
+* We were able to use data available in the health system to run our model and hope to reduce underreporting
 ---
+
+### Diabetes Mellitus
 
 Diabetes Mellitus (DM) is a complex metabolic disease that can present different manifestations, although it is mostly characterized by elevated levels of blood glucose. Diabetes’ primary cause is related to Insulin deficiency (in Type I, autoimmune response that destroys insulin-producing cells) or Insulin resistance (in Type II, when insulin receptors lose their sensibility to it).
 
@@ -97,6 +103,9 @@ More details avaiable in the "Architecture folder" in this repository
 ## Some Results
 
 #### Model Validation in Test Set (Unseen data) Outputs
+
+![ Final results](https://i.imgur.com/DMxzwyK.png)
+
 
 All models apllied showed good results. This metrics, derived from test set, are not far from the ones spotted in training set. The models are doing a decent job in generalizating the classification. 
 <br/>
