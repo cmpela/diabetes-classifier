@@ -1,3 +1,13 @@
+### Contributors: 
+
+[Conrado Pelá - CP3017133](https://github.com/cmpela/)<br>
+[Thales Pomari - CP3013456](https://github.com/thalespomari)<br>
+[Tuanny Leite - CP3016285](https://github.com/tuleite)
+
+Trabalho desenvolvido e apresentado para as disciplinas de "Big Data" e "Aprendizado de Máquina e Reconhecimento de Padrões" do curso de especialização em Ciência de Dados do IFSP/Campinas. 
+
+Resumo do trabalho completo está disponível no [link](https://github.com/cmpela/diabetes-classifier)
+
 # Arquitetura
 
 ## Introdução
