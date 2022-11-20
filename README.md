@@ -119,9 +119,3 @@ Our elected model is ***SVM with RBF kernel, with hyperparameters C = 0.01*** as
 - Develop the least viable model based on the most relevant features, making data acquisition feasible and less expensive.
 - Develop data ingestion with DATASUS for automatically input new local data. 
 - Develop a unsupervised machine learning model to reduce annotated data dependency.
-
-
-
-
-
-
