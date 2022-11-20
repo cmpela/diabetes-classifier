@@ -1,5 +1,13 @@
 ## Undiagnosed Diabetes Mellitus Prediction on general health and behavior indicators using supervised learning techniques
 
+### Contributors: 
+
+[Conrado Pelá - CP3017133](https://github.com/cmpela/)<br>
+[Thales Pomari - CP3013456](https://github.com/thalespomari)<br>
+[Tuanny Leite - CP3016285](https://github.com/tuleite)
+
+
+
 ### Highlights - Start reading here:
 * Diabetes is a metabolic disease that results in high concentrations of sugar in the blood which impairs the functioning of organs and tissues.
 * Currently there are 3 methods of diagnosing DM, all of which rely on laboratory tests
